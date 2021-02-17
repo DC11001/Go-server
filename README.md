@@ -1,6 +1,7 @@
 # Go-server
-Simple server demo for and API REST.
+Simple server demo for an API REST.
 Methods: 
 GET
 POST
 DELETE
+# go run .
