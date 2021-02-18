@@ -5,7 +5,7 @@ GET
 POST
 DELETE
 
-# Install gorilla/mux
+## Install gorilla/mux
 go get -u github.com/gorilla/mux
 
-# go run .
+## go run .
