@@ -4,4 +4,8 @@ Methods:
 GET
 POST
 DELETE
+
+#Install gorilla/mux
+go get -u github.com/gorilla/mux
+
 # go run .
